@@ -7,9 +7,11 @@ Además de la tecnología, también me inspiran el arte y la música, que influy
 --->
 
 ## 🚀 🚀 Goals
-•	Improve my skills in JavaScript, HTML, CSS, Python, …
-•	Complete small projects to practice and share what I learn.
-•	Combine programming with my interests in art and music to create unique projects.
+Improve my skills in JavaScript, HTML, CSS, Python, …
+
+Complete small projects to practice and share what I learn.
+
+Combine programming with my interests in art and music to create unique projects.
  
 <!--Mejorar mis habilidades en JavaScript, HTML, CSS, Python, ...
 
