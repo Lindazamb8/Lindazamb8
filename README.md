@@ -1,4 +1,4 @@
-# 👋 Hello! I’m Linda!
+# 👋 Hello, I’m Linda!
 
 I'm a passionate learner and curious explorer of the programming world. Although I’m just beginning my coding journey, I’m eager to uncover all the opportunities it holds. With a background in music and art, I bring a fresh, creative outlook to my projects.
 <!--Soy una apasionada del aprendizaje y una exploradora del mundo de la programación. Acabo de comenzar en este camino, pero estoy emocionada de descubrir todas las posibilidades que ofrece. Vengo del mundo de la música y del arte, lo cual aporta una perspectiva creativa y única a mis proyectos. -->
@@ -6,7 +6,7 @@ I'm a passionate learner and curious explorer of the programming world. Although
 Además de la tecnología, también me inspiran el arte y la música, que influyen en cómo veo el mundo y me ayudan a ser creativa en mis proyectos.
 --->
 
-## 🚀 🚀 Goals
+## 🚀 Goals
 Improve my skills in JavaScript, HTML, CSS, Python, …
 
 Complete small projects to practice and share what I learn.
