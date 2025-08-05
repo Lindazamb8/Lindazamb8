@@ -25,7 +25,7 @@ Small projects, study notes, and anything that helps me grow on this journey.
 <!--¿Qué encontrarás aquí?
 Pequeños proyectos, apuntes de estudio y cualquier cosa que me ayude a crecer en este camino.-->
 
-## 💻  Tecnologías
+## 💻  Technologies
 [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://htmlreference.io/)
 [![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://cssreference.io/)
 [![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
